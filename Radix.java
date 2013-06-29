@@ -1,3 +1,5 @@
+//This is an incredibly slow implementation of Radix sort using queues
+//Technically it works... slowly.
 import java.util.Random;
 
 class Radix
